@@ -1,1 +1,1 @@
-This repo contains finish workbooks of pandas exercises from Kaggle. Original copies of the workbooks can be found at https://www.kaggle.com/learn/pandas
+This repo contains finished workbooks of pandas exercises from Kaggle. Original copies of the workbooks can be found at https://www.kaggle.com/learn/pandas
